@@ -1,0 +1,3 @@
+https://www.barcodebakery.com/en/qrcode/php
+
+src="barcode.php?text=walter"/>
